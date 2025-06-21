@@ -1,4 +1,4 @@
-# Python Project: Mapping Test Data to Ideal Functions
+# Python Project
 
 # Overview
 This project processes training, ideal, and test data to:
@@ -29,5 +29,5 @@ Visualize everything using Bokeh
    All data is stored in functions.db.
    Results are shown in your browser.
 
-# Creater
-   SuneethKokala - StudentId
+# Creator
+   SuneethKokala - 4252195
